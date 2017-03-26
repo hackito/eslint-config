@@ -1,0 +1,11 @@
+{
+  "name": "@hackito/eslint-config-default-rules",
+  "version": "0.0.2",
+  "description": "Hackito Eslint rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackito/eslint-config"
+  },
+  "author": "Vignesh Periasami"
+}
